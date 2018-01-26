@@ -1,0 +1,40 @@
+body {
+	background-image: url(https://free4kwallpaper.com/wp-content/uploads/2016/01/New-4K-Spring-Wallpaper-1680x1050.jpg);
+	background-size: cover;
+	}
+
+h1 {
+	font-family: 'Kavivanar', cursive;
+}
+
+.flex-container {
+	display: flex;
+	justify-content: flex-end;
+	align-items: flex-end;
+	height: 700px;
+}
+
+.line-1 {
+	font-weight: bold;
+	font-size: 50px;
+	font-family: 'Playball', cursive;
+	margin-left: 50px;
+}
+
+.line-2 {
+	font-family: 'Playball', cursive;
+	font-size: 80px;
+	margin-right: 40px;
+}
+
+.btn-outline-secondary {
+	background-color: white;
+	font-family: 'Kavivanar', cursive;
+	padding: 40px;
+}
+
+#flex-container-1 {
+	display: flex;
+	justify-content: center;
+	align-items: flex-start;
+}
